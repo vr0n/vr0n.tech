@@ -2,13 +2,14 @@
 title: "vr0n"
 name: "Website name"
 keywords: "tinker, taylor, hacker, spy, hacking, vr0n"
-baseurl: ""
-url: "http://vr0n.tech"
+baseurl: "/vr0n.tech/_site"
+url: "136.244.111.81"
 description: "Website description"
 cover: "/assets/img/cover.svg"
 fanpage_id: ""
 
 # Site general settings
+encoding: "utf-8"
 lang: "en"
 lang_alternate: "pt_BR"
 ssl: false # It will redirect to https
