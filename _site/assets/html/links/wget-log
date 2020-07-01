@@ -1,0 +1,11 @@
+--2020-02-16 21:43:05--  https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsilverbirchpress.files.wordpress.com%2F2014%2F08%2Frene_magritte_not_to_be_reproduced.jpg
+Resolving external-content.duckduckgo.com (external-content.duckduckgo.com)... 52.48.96.171
+Connecting to external-content.duckduckgo.com (external-content.duckduckgo.com)|52.48.96.171|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘index.html?u=https:%2F%2Fsilverbirchpress.files.wordpress.com%2F2014%2F08%2Frene_magritte_not_to_be_reproduced.jpg’
+
+                         index.html?u=https:%2F%2F     [<=>                                                                                                              ]       0  --.-KB/s               index.html?u=https:%2F%2Fsilverbirchpress.files.wo     [ <=>                                                                                                             ]  52.03K  --.-KB/s    in 0.02s   
+
+2020-02-16 21:43:05 (2.86 MB/s) - ‘index.html?u=https:%2F%2Fsilverbirchpress.files.wordpress.com%2F2014%2F08%2Frene_magritte_not_to_be_reproduced.jpg’ saved [53283]
+
